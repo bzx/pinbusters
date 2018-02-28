@@ -1,5 +1,7 @@
 ![Icon](img/hero-image.png)
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/kakcofganmlibjmagofeimjhailodnod.svg)](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
+
 # PINBUSTERS
 - Are you troubled by strange images in the middle of your Google Image Search?
 - Do you experience feelings of dread when you realize these images are actually coming from Pinterest?

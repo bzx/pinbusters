@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name          Pinbusters
-// @namespace     https://github.com/bzx/pinbusters/
-// @description   Hide all Pinterest images from your Google Image Search
-// @include       http*://*.google.tld/search*tbm=isch*
-// @version       1.1
-// @license       MIT
-// ==/UserScript==
-
 function removePins(node) {
 
     // Find all divs with images, define others

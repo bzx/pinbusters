@@ -14,8 +14,10 @@ Our courteous and efficient [Google Chrome](https://chrome.google.com/webstore/d
 We're ready to bust your pins!
 
 ## Install in your browser
-- [Chrome extension](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
-- [Tampermonkey script](https://greasyfork.org/en/scripts/39154-pinbusters) for other browsers
+- Google Chrome: [Extension](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
+- Other browsers: 
+    - [Tampermonkey script](https://greasyfork.org/en/scripts/39154-pinbusters)
+    - [OpenUserJS script](https://openuserjs.org/scripts/bzx/Pinbusters)
     - requires [Tampermonkey plugin](http://tampermonkey.net) which is compatible with Safari, Chrome, Firefox, Opera Next, Microsoft Edge, Dolphin and UC Browser.
 
 ## But.. what does it do?

@@ -1,6 +1,6 @@
 ![Icon](img/hero-image.png)
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/kakcofganmlibjmagofeimjhailodnod.svg)](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/kakcofganmlibjmagofeimjhailodnodgs.svg)](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
 
 # PINBUSTERS
 - Are you troubled by strange images in the middle of your Google Image Search?
@@ -13,8 +13,10 @@ Our courteous and efficient [Google Chrome](https://chrome.google.com/webstore/d
 
 We're ready to bust your pins!
 
-## Install
-[Chrome extension page](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
+## Install in your browser
+- [Chrome extension](https://chrome.google.com/webstore/detail/pinbusters/kakcofganmlibjmagofeimjhailodnod)
+- [Tampermonkey script](https://greasyfork.org/en/scripts/39154-pinbusters) for other browsers
+    - requires [Tampermonkey plugin](http://tampermonkey.net) which is compatible with Safari, Chrome, Firefox, Opera Next, Microsoft Edge, Dolphin and UC Browser.
 
 ## But.. what does it do?
 

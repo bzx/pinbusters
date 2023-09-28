@@ -2,7 +2,6 @@ function removePins(node) {
 
     // Find all divs with images, define others
     var link_img,
-        link_div,
         link_txt,
         href,
         match,
